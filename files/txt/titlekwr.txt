@@ -1,0 +1,282 @@
+Keyword Ranking path position Change
+CPC (USD)
+Search volume
+africa autoclaved aerated concrete market /research-report/africa-autoclaved-aerated-concrete-market/ 1 3 0.0 0
+philippines contact cement market /research-report/philippines-contact-cement-market/ 1 1 0.0 0
+oncolytics virus therapy market /research-report/global-oncolytic-virus-therapy-market/ 2 -1 0.0 0
+polypropylene battery separator market /research-report/polypropylene-battery-separator-market/ 3 2 0.0 0
+micronutrient fertilizers market /research-report/global-micronutrient-fertilizers-market/ 4 2 0.0 0
+air core shunt reactor market /research-report/air-core-shunt-reactor-market/ 4 20 0.0 0
+gas turbine distributed energy market /research-report/global-gas-turbine-distributed-energy-generation-market/ 4 1 0.0 0
+hazardous drug administration market /research-report/global-hazardous-drug-administration-market/ 4 12 0.0 0
+skin and soft tissue infection market /research-report/global-skin-and-soft-tissue-infections-market/ 4 -1 0.0 0
+patient examination devices market /research-report/global-patient-examination-devices-market/ 4 3 0.0 0
+evaporative cooling market /research-report/global-evaporative-cooling-market/ 5 26 0.0 0
+asia pacific compound feed market /research-report/asia-compound-feed-market/ 5 -2 0.0 0
+coconut based foods market /research-report/global-coconut-foods-market/ 5 6 0.0 0
+commerical distributed energy market /research-report/global-commercial-distributed-energy-generation-market/ 5 96 0.0 0
+non proliferative diabetic retinopathy market /research-report/global-non-proliferative-diabetic-retinopathy-market/ 5 10 0.0 0
+insulin resistance market /research-report/global-insulin-resistance-market-size/ 5 96 0.0 0
+feed yeast market /research-report/global-feed-yeast-market/ 6 7 0.0 10
+gut and digestive health ingredients market /research-report/global-gut-and-digestive-health-ingredients-market/ 6 -4 0.0 0
+water enhancers market /research-report/water-enhancers-market/ 6 -2 0.0 0
+foam dressing market /research-report/global-foam-dressing-market/ 6 10 0.0 0
+diabetic neuropathic foot ulcers market /research-report/global-diabetic-neuropathic-foot-ulcers-market/ 6 1 0.0 0
+aerosol paints market /research-report/aerosol-paints-market/ 7 27 0.0 0
+feed mycotoxin detoxifiers market /research-report/global-feed-mycotoxin-detoxifiers/ 7 7 0.0 10
+fixed shunt reactor market /research-report/fixed-shunt-reactor-market/ 7 3 0.0 0
+enteral stenting procedure market /research-report/global-enteral-stenting-procedures-market/ 7 8 0.0 0
+agricultural testing market /research-report/global-agricultural-testing-market/ 8 3 0.0 10
+asia pacific aqua feed market /research-report/aqua-feed-market/ 8 -6 0.0 0
+asia pacific adhesives and sealants market /research-report/asia-pacific-adhesives-sealants-market/ 8 13 0.0 0
+macular edema market /research-report/macular-edema-market/ 8 5 0.0 0
+flax seed market /research-report/global-flax-seed-market/ 8 -3 0.0 0
+plant bio-stimulants market /research-report/global-plant-biostimulants-market/ 8 -2 0.0 0
+cosmetic surgery equipments market /research-report/cosmetic-surgery-equipments-market/ 8 -4 0.0 0
+glaucoma therapeutics market /research-report/global-glaucoma-therapeutic-market/ 9 3 0.0 0
+endometriosis drug market /research-report/endometriosi-drug-market/ 9 -8 0.0 0
+female sterilization market /research-report/global-female-sterilization-procedures-market/ 9 2 0.0 0
+glaucoma therapeutic market /research-report/global-glaucoma-therapeutic-market/ 9 -2 0.0 0
+diabetic macular edema market /research-report/macular-edema-market/ 9 13 0.0 10
+jam, jelly and preserves market /research-report/jam-jelly-and-preserves-market/ 10 -2 0.0 0
+commercial distributed power generation market /research-report/global-commercial-distributed-energy-generation-market/ 10 91 0.0 0
+lipid disorder market /research-report/global-lipid-disorder-market/ 10 -1 0.0 0
+agricultural fumigants market /research-report/global-agricultural-fumigants-market/ 11 3 0.0 10
+canada aesthetic devices market /research-report/aesthetic-devices-market/ 11 -5 0.0 0
+vehicle diagnostics market /research-report/global-vehicle-diagnostics-market/ 11 22 0.0 0
+battery separator market /research-report/polypropylene-battery-separator-market/ 11 5 0.0 10
+age related macular degeneration market /research-report/global-age-related-macular-degeneration-market/ 11 9 0.0 10
+wound care management devices market /research-report/wound-care-management-devices-market/ 12 1 0.0 0
+renal biomarkers market /research-report/renal-biomarkers-market/ 12 9 0.0 0
+freeze-dried food market /research-report/global-freeze-dried-food-market/ 12 6 1.9 10
+defoamers market /research-report/global-defoamers-market/ 13 -3 0.0 10
+food testing and certification market /research-report/food-testing-and-certification-market/ 13 -4 0.0 0
+diabetic macular edema size market /research-report/macular-edema-market/ 13 4 0.0 0
+needle free injections market /research-report/global-needle-free-injection-market/ 14 7 0.0 0
+phytonutrients market /research-report/global-phytonutrients-market/ 15 -4 0.0 0
+vision care devices market /research-report/global-vision-care-devices-market/ 15 1 0.0 0
+low-calorie sweeteners market /research-report/global-low-calorie-sweeteners-market/ 15 -2 0.0 0
+variable shunt reactor market /research-report/air-core-shunt-reactor-market/ 15 -12 0.0 0
+lithium ion battery separator market /research-report/lithium-ion-battery-separator-market/ 16 4 0.0 0
+industrial distributed energy generation market /research-report/global-commercial-distributed-energy-generation-market/ 16 -10 0.0 0
+sugar reduction market /research-report/sugar-reduction-market/ 16 23 0.0 0
+fetal neonatal monitoring market /research-report/global-fetal-neonatal-monitoring-market/ 16 2 0.0 0
+pulp and paper chemicals market /research-report/global-pulp-and-paper-chemicals-market/ 17 -3 0.0 10
+lead acid battery separator market /research-report/lead-acid-battery-separator-market/ 17 2 0.0 0
+disposable hospital supplies market /research-report/hospital-supplies-market/ 17 -7 0.0 0
+acute myeloid leukaemia therapeutics market /research-report/global-acute-myeloid-leukaemia-therapeutics-market/ 18 7 0.0 0
+oil immersed shunt reactor market /research-report/oil-immersed-shunt-reactor-market/ 18 1 0.0 0
+vendor neutral archive and pacs market /research-report/vendor-neutral-archive-vna-and-pacs-market/ 18 1 0.0 0
+peripherally inserted central catheter market /research-report/peripherally-inserted-central-catheter-market/ 18 10 0.0 0
+brazil diagnostic imaging market /research-report/diagnostic-imaging-market/ 18 -2 0.0 0
+systemic sclerosis market /research-report/systemic-sclerosis-market-size/ 18 7 0.0 0
+growth hormone deficiency market /research-report/global-growth-hormone-deficiency-market/ 18 4 0.0 0
+seed treatment market /research-report/global-seed-treatment-market/ 19 3 2.1 10
+cbd water market /research-report/global-cbd-water-market/ 19 40 0.0 0
+non-invasive blood pressure monitors market /research-report/global-non-invasive-blood-pressure-monitors-market/ 19 12 0.0 0
+hospital supplies market /research-report/hospital-supplies-market/ 20 55 0.0 10
+medical imaging information systems market /research-report/global-medical-imaging-information-systems-market/ 20 0 0.0 0
+cancer monoclonal antibodies market /research-report/cancer-monoclonal-antibodies-market/ 21 -2 0.0 0
+liquid feed market /research-report/liquid-feed-market/ 21 -10 0.0 0
+indonesia amino acid fertilizer market /product-category/agriculture/page/2/ 21 80 0.0 0
+airbag market /research-report/global-airbag-market/ 21 3 0.0 10
+mobility aids and transportation equipments market /research-report/global-mobility-aids-and-transporation-equipments-market/ 21 80 0.0 0
+central vascular access devices market /research-report/global-central-vascular-access-devices-market/ 21 -1 0.0 0
+nuclear imaging market /research-report/nuclear-imaging-market/ 22 79 0.0 10
+patient monitoring accessories market /research-report/global-patient-monitoring-accessories-market/ 22 -1 0.0 0
+uveitis market /research-report/global-uveitis-market/ 23 78 0.0 0
+maize/corn seeds market /research-report/maize-corn-seeds-market/ 23 -16 0.0 0
+syringes and needles market /research-report/global-syringes-and-needles-market/ 23 9 0.0 0
+maleic anhydride market /research-report/global-maleic-anhydride-market/ 24 14 0.0 10
+ophthalmic diagnostic equipments market /research-report/global-ophthalmic-diagnostic-equipment-market/ 24 11 0.0 0
+cataract surgery devices market /research-report/cataract-surgery-devices-market/ 24 9 0.0 10
+high-performance alloys market /research-report/global-high-performance-alloys-market/ 24 13 0.0 10
+clinical trial market /research-report/clinical-trial-management-system-market/ 24 14 0.0 10
+central venous catheters market /research-report/global-central-venous-catheters-market/ 24 0 0.0 10
+dyslipidemia market /research-report/global-dyslipidemia-market/ 24 77 0.0 10
+metered dose inhaler devices market /research-report/global-metered-dose-inhaler-devices-market/ 24 -1 0.0 0
+shunt reactor market /research-report/air-core-shunt-reactor-market/ 25 2 0.0 10
+diabetic foot ulcers market /research-report/global-diabetic-foot-ulcers-market-size/ 25 76 0.0 0
+agricultural chelates market /research-report/global-agricultural-chelates-market/ 26 68 0.0 0
+forage seed market /research-report/global-forage-seed-market/ 26 12 0.0 10
+anti corrosion coatings market /research-report/anti-corrosion-coatings-market/ 26 -6 0.0 10
+contrast media injectors market /research-report/global-contrast-media-injectors-market/ 26 0 0.0 10
+veterinary vaccines market /research-report/global-veterinary-vaccines-market/ 27 8 0.0 10
+power line communication market /research-report/power-line-communication-market/ 27 9 0.0 10
+neonatal monitors market /research-report/global-fetal-neonatal-monitoring-market/ 27 -2 0.0 0
+vegetable seed market /research-report/vegetable-seed-market/ 28 73 0.7 10
+glaucoma surgery devices market /research-report/glaucoma-surgery-devices-market/ 28 -12 0.0 0
+automotive composite materials market /research-report/global-automotive-composite-materials-market/ 28 7 0.0 0
+automotive testing market /research-report/global-automotive-testing-market/ 28 10 0.0 0
+oil and gas cloud application market /research-report/global-oil-gas-cloud-application-market/ 28 73 0.0 0
+transdermal drug delivery devices market /research-report/global-transdermal-drug-delivery-devices-market/ 28 -5 0.0 0
+seed coating materials market /research-report/seed-coating-materials-market/ 29 4 0.0 10
+barrier resins market /research-report/global-barrier-resins-market/ 30 15 0.0 10
+hemodialysis equipment market /research-report/hemodialysis-equipment-market/ 30 -1 0.0 0
+industrial coatings market /research-report/industrial-coatings-market/ 31 -17 5.8 10
+diesel generator market /research-report/global-diesel-generator-market/ 32 69 3.3 10
+weight management supplements market /research-report/weight-management-supplements-market/ 32 4 0.0 0
+fire safety equipment market /research-report/global-fire-safety-equipment-market/ 32 69 0.0 0
+pediatric clinical trails market /research-report/pediatric-clinical-trails-market/ 34 -1 0.0 0
+mammography market /research-report/global-mammography-market/ 34 0 0.0 10
+ancient grains market /research-report/ancient-grains-market/ 34 67 0.0 0
+polymer emulsions market /research-report/polymer-emulsions-market/ 35 66 0.0 0
+feed acidifiers market /research-report/feed-acidifiers-market/ 35 -25 0.0 10
+agricultural micronutrients market /research-report/global-agricultural-micronutrients-market/ 35 20 0.0 10
+biopolymer market /research-report/global-bio-polymer-market/ 35 -15 0.0 10
+contact adhesives market /research-report/contact-adhesives-market/ 36 -4 0.0 0
+plant proteins market /research-report/plant-proteins-market/ 36 19 0.0 0
+medical aesthetic device market /research-report/medical-aesthetic-device-market/ 37 -17 0.0 0
+endoscopy devices market /research-report/endoscopy-devices-market/ 38 63 1.9 10
+preventive vaccine market /research-report/global-preventive-vaccine-market/ 38 5 0.0 0
+systemic lupus erythematosus market /research-report/global-systemic-lupus-erythematosus-market/ 38 12 0.0 0
+radiology information system market /research-report/radiology-information-system-market/ 39 -20 0.0 10
+multiparameter patient monitoring devices market /research-report/the-global-multiparameter-patient-monitoring-devices-market/ 40 0 0.0 0
+crop protection chemicals market /research-report/global-crop-protection-chemicals-market/ 41 60 0.0 10
+naphthalene market /research-report/naphthalene-market/ 42 -30 0.0 10
+hydrocolloids market /research-report/global-hydrocolloids-market/ 42 51 0.0 10
+hydroponics market /research-report/hydroponics-market/ 43 -10 0.9 40
+bone densitometers market /research-report/bone-densitometer-market/ 43 18 0.0 10
+protective coatings market /research-report/protective-coatings-market/ 44 0 0.0 10
+medical image analysis software market /research-report/medical-image-analysis-software-market/ 44 7 1.6 10
+high density polyethylene market /research-report/hdpe-high-density-polyethylene-market/ 44 19 0.0 10
+fetal monitors market /research-report/global-fetal-monitors-market/ 44 57 0.0 0
+local anesthsia drugs market /research-report/global-local-anesthsia-drugs-market/ 44 -5 0.0 0
+sterilization equipment market /research-report/sterilization-equipment-market/ 45 56 0.0 10
+frozen bakery products market /research-report/frozen-bakery-products-market/ 46 55 0.0 10
+power system simulation market /research-report/global-power-system-simulation-market/ 48 53 0.0 0
+lubricant additives market /research-report/lubricant-additives-market/ 49 -26 0.1 10
+bio lubricants market /research-report/bio-lubricants-market/ 49 19 0.0 0
+operating room equipment market /research-report/global-operating-room-equipment-market/ 49 -13 0.0 10
+automotive foams market /automotive-category/ 50 -26 0.0 0
+diabetic nephropathy market /research-report/global-diabetic-nephropathy-market/ 50 11 0.0 10
+nickel alloys market /research-report/global-nickel-alloys-market/ 51 -32 0.0 0
+aerospace coatings market /research-report/global-aerospace-coatings-market/ 52 12 0.0 10
+osteoporosis market /research-report/global-osteoporosis-market/ 52 49 0.0 10
+thermal spray market /research-report/thermal-spray-market/ 54 -3 0.0 10
+blood pressure moniters market /research-report/global-blood-pressure-monitors-market/ 54 -18 0.0 0
+food probiotics market /research-report/global-food-probiotics-market/ 55 46 0.0 0
+adjuvants market /research-report/adjuvants-market/ 55 46 0.0 10
+functional beverages market /research-report/functional-beverages-market/ 56 45 1.5 30
+food enzymes market /research-report/food-enzymes-market/ 57 44 0.0 10
+oilfield services market /research-report/global-oilfield-services-market/ 58 43 0.0 10
+crohn's disease market /research-report/global-crohns-disease-market/ 60 41 0.0 10
+specialty chemicals market /research-report/global-specialty-chemicals-market/ 61 -14 2.7 20
+chia seeds market /research-report/global-chia-seeds-market/ 61 -15 0.0 10
+nucleic acid isolation and purification market /research-report/global-nucleic-acid-isolation-and-purification-market/ 63 38 0.0 10
+atopic dermatitis market /research-report/global-atopic-dermatitis-market/ 63 29 0.0 10
+laundry detergent market /research-report/laundry-detergent-market/ 65 36 1.5 20
+sesame seeds market /research-report/sesame-seeds-market/ 70 31 0.0 10
+incontinence devices market /research-report/global-incontinence-devices-market/ 71 2 0.0 0
+mobile c-arms market /research-report/global-mobile-c-arms-market/ 73 28 0.0 0
+biopharmaceuticals market /research-report/global-biopharmaceuticals-market/ 74 -44 0.0 10
+circuit breaker market /research-report/circuit-breaker-market/ 80 -17 0.2 70
+industrial water treatment market /research-report/global-industrial-water-treatment-market/ 85 11 0.0 10
+advanced materials market /research-report/advanced-materials-market/ 86 -44 0.0 10
+type 2 diabeties market /research-report/global-type-2-diabetes-size/ 90 11 0.0 0
+medicinal foods market /food-and-beverages-category/ 92 9 0.0 0
+managed services market 100+ 0 3.4 40
+genetic testing market 100+ 0 1.8 30
+baby food market 100+ 0 2.0 50
+modular data center market 100+ 0 8.1 10
+flat glass market /research-report/flat-glass-market/ 100+ 0 0.0 10
+smart glass market 100+ 0 3.1 30
+digital signage market 100+ 0 10.0 40
+advanced driver assistance systems market 100+ 0 1.7 40
+tackifier market 100+ 0 2.1 10
+microspheres market 100+ 0 0.0 10
+lithium market 100+ 0 1.7 90
+lubricants market 100+ 0 0.0 20
+polyvinyl chloride market /research-report/polyvinyl-chloride-pvc-market/ 100+ 0 0.0 10
+fluoropolymers market 100+ 0 0.0 10
+paints and coatings market /research-report/paints-and-coatings-market/ 100+ 0 0.0 10
+water treatment chemicals market 100+ 0 1.2 10
+construction chemicals market /research-report/global-construction-chemicals-market/ 100+ -61 0.0 10
+population health management market 100+ 0 0.0 10
+next generation sequencing market 100+ 0 0.4 20
+ultrasound devices market 100+ -73 0.0 10
+respiratory devices market 100+ 0 0.0 10
+healthcare it market 100+ 0 2.5 40
+active pharmaceutical ingredients market 100+ 0 0.0 10
+diabetes devices market 100+ 0 1.7 10
+healthcare analytics market 100+ 0 2.0 30
+mobile health market 100+ 0 0.0 20
+precision medicine market 100+ 0 2.0 20
+molecular diagnostics market /research-report/molecular-diagnostics-market/ 100+ 0 3.9 30
+wearable medical devices market 100+ 0 4.0 30
+telemedicine market /research-report/telemedicine-market/ 100+ 0 7.2 50
+companion diagnostics market 100+ 0 2.4 30
+sunflower seeds market 100+ 0 0.5 10
+beta glucan market 100+ 0 0.0 10
+energy drinks market 100+ 0 1.0 170
+agrochemicals market /research-report/agrochemicals-market/ 100+ 0 0.0 10
+whey protein market 100+ 0 1.1 20
+silage additives market /research-report/global-silage-additives-market/ 100+ -63 0.8 10
+nutraceuticals market 100+ 0 2.3 40
+fungicides market /research-report/fungicides-market/ 100+ -41 0.0 10
+steel market 100+ 0 1.4 260
+yogurt market 100+ 0 0.8 40
+precision agriculture market 100+ 0 0.0 10
+adhesives and sealants market 100+ 0 2.5 10
+bottled water market 100+ 0 3.5 70
+seeds market 100+ 0 1.4 140
+contact lenses market 100+ 0 6.7 40
+biopreservation market /research-report/biopreservation-market/ 100+ 0 0.0 10
+snack food market /research-report/snack-food-market/ 100+ -55 0.0 10
+stevia market 100+ 0 0.0 30
+collagen market 100+ 0 2.2 10
+in-vitro diagnostics market 100+ 0 1.1 50
+portable x-ray devices market /research-report/portable-x-ray-devices-market/ 100+ 0 0.0 0
+ehealth market 100+ 0 2.4 10
+genome editing market /research-report/genome-editing-market/ 100+ 0 0.0 10
+in-vitro toxicology testing market /research-report/in-vitro-toxicology-testing-market/ 100+ -32 4.7 10
+animal feed additives market /research-report/global-animal-feed-additives-market/ 100+ 0 3.0 10
+clinical trial management system market /research-report/clinical-trial-management-system-market/ 100+ -61 0.0 10
+polyurethane market 100+ 0 1.6 20
+renewable energy market 100+ 0 4.5 140
+medical imaging market 100+ -53 0.0 30
+cardiac monitoring devices market /research-report/cardiac-monitoring-market/ 100+ 0 0.0 10
+anti-aging market 100+ 0 2.7 40
+cosmetic surgery market /research-report/cosmetic-surgery-equipments-market/ 100+ 0 0.0 10
+remote patient monitoring market 100+ 0 5.6 30
+mri systems market /research-report/global-mri-systems-market/ 100+ 0 0.0 10
+soy protein market /research-report/soy-protein-market/ 100+ 0 0.0 10
+water treatment equipment market /research-report/water-treatment-equipment-market/ 100+ -50 0.0 10
+computed tomography market 100+ -74 0.0 10
+contrast agents market 100+ 0 0.0 0
+intra ocular lens market 100+ 0 0.0 0
+meal kit market /research-report/global-meal-kit-market/ 100+ 0 3.4 50
+building materials market /research-report/global-building-materials-market/ 100+ 0 0.0 70
+bio pesticides market 100+ 0 0.0 0
+bio fertilizers market 100+ 0 0.0 0
+lithium-ion battery market 100+ 0 0.8 70
+food sweeteners market /research-report/food-sweeteners-market/ 100+ 0 0.0 0
+alcoholic beverages market 100+ 0 1.9 10
+veterinary diagonistics market /research-report/veterinary-diagnostics-market/ 100+ -26 0.0 0
+orthopaedic devices market /research-report/orthopaedic-devices-market/ 100+ 0 0.0 0
+patient monitoring equipments market 100+ 0 0.0 0
+oral care market /research-report/oral-care-market/ 100+ 0 1.7 20
+medical supplies and equipments market /research-report/medical-supplies-and-equipments-market/ 100+ 0 0.0 0
+ecg market 100+ 0 0.6 10
+power generation market 100+ 0 3.4 30
+oil & gas equipment rental market 100+ 0 0.0 0
+indonesia freight and logistics market 100+ 0 0.0 0
+heavy construction machinery market 100+ 0 0.0 0
+chip inductor market 100+ 0 0.0 0
+bio surfactants market /research-report/global-bio-surfactants-market/ 100+ 0 0.0 0
+plastic market 100+ 0 1.6 50
+fluorochemicals market /research-report/global-fluorochemicals-market/ 100+ -78 0.0 10
+hardware power simulation market 100+ 0 0.0 0
+renal dialysis market /research-report/renal-dialysis-equipment-market/ 100+ 0 0.0 10
+clinical it systems market /research-report/global-clinical-it-systems-market/ 100+ 0 0.0 0
+automotive filters market /research-report/global-automotive-filters-market/ 100+ 0 0.0 10
+pharmaceutical mass flow converter market 100+ 0 0.0 0
+pressure ulcers market /research-report/global-pressure-ulcers-market/ 100+ 0 0.0 0
+post menopausal osteoporois market 100+ 0 0.0 0
+diabetic retinotherapy market 100+ 0 0.0 0
+sjôøωgrenôøωs syndrome market 100+ 0 0.0 0
+acne vulgaris market /research-report/global-acne-vulgaris-acne-market/ 100+ 0 0.0 0
+trans catheter aortic valve replacement size market /research-report/global-trans-catheter-aortic-valve-replacement-market/ 100+ -20 0.0 0
+trans catheter aortic valve replacement market 100+ 0 0.0 0
+micro-elecromechanical sensors market 100+ 0 0.0 0
+infusion systems market 100+ 0 0.0 0
